@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhGcXqLlAvzoUJjQXNvrkWhqsIVenq5ccM_qPsl_Gz68VK4WYTO5Hn4mNmDlI24DP0elDLTEOR4y1lKL8KVChnQz0WdJbYFr6UzzyHwLGV76G0EqOB9-1SQxm5qcQXQxTd-IR7zGpJu7dCU6t68oShDhoRsvmbKouaEhnSzeWkALLmJSm6v7tuRmjlIPQ=s16000)
+
 <h1 align="center">Hi 👋, I'm @firojahmed1313</h1>
 <h3 align="center"> web Designer </h3>
 
@@ -12,7 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quickpucha" alt="quickpucha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pradyutpal16" target="blank"><img src="https://img.shields.io/twitter/follow/pradyutpal16?logo=twitter&style=for-the-badge" alt="pradyutpal16" /></a> </p>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pradyutofficial.blogspot.com/)
 
@@ -27,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quickpucha&show_icons=true&locale=en&layout=compact" alt="quickpucha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quickpucha&show_icons=true&locale=en" alt="quickpucha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quickpucha&" alt="quickpucha" /></p>

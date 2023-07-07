@@ -40,7 +40,6 @@
 
 
 ### Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/firojahmed1313/firojahmed1313/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/firojahmed1313/firojahmed1313/blob/output/github-contribution-grid-snake.gif)
 
+![snake gif](https://github.com/firojahmed1313/firojahmed1313/blob/output/github-contribution-grid-snake.gif)
 

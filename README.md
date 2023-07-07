@@ -34,5 +34,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firojahmed1313&show_icons=true&locale=en" alt="firojahmed1313" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firojahmed1313&" alt="firojahmed1313" /></p>
+
+### Badges
 [![@firojahmed1313's Holopin board](https://holopin.me/@firojahmed1313)](https://holopin.io/@firojahmed1313)
+
+
+### Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/firojahmed1313/firojahmed1313/output/github-contribution-grid-snake.svg)

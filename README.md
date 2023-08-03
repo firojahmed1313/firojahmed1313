@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firojahmed1313&theme=dark_dimmed&margin-w=10" alt="firojahmed1313" /></a> </p>
 
+[![](https://visitcount.itsvg.in/api?id=firojahmed1313&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://twitter.com/firojahmed30520" target="blank"><img src="https://img.shields.io/twitter/follow/firojahmed30520?logo=twitter&style=for-the-badge" alt="firojahmed30520" /></a> </p>
 
 - 🌱 I’m currently learning **React**

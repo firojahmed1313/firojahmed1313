@@ -45,8 +45,7 @@
 
 ### Just a Snake 🐍 Eating away my Contributions...😭
 
-<img src="https://raw.githubusercontent.com/firojahmed1313/firojahmed1313/output/main.svg" alt="Snake animation" />
-![snake gif](https://raw.githubusercontent.com/firojahmed1313/firojahmed1313/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/firojahmed1313/firojahmed1313/output/snake.svg" alt="Snake animation" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)

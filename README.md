@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firojahmed1313&label=Profile%20views&color=0e75b6&style=flat" alt="firojahmed1313" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firojahmed1313&theme=dark_dimmed&margin-w=10" alt="firojahmed1313" /></a> </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350px" align="right" /></p></h1>
 
 <p align="left"> <a href="https://twitter.com/firojahmed30520" target="blank"><img src="https://img.shields.io/twitter/follow/firojahmed30520?logo=twitter&style=for-the-badge" alt="firojahmed30520" /></a> </p>
 

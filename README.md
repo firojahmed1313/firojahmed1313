@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/firojahmed30520" target="blank"><img src="https://img.shields.io/twitter/follow/firojahmed30520?logo=twitter&style=for-the-badge" alt="firojahmed30520" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React-native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/firojahmed1313?tab=repositories](https://github.com/firojahmed1313?tab=repositories)
 

@@ -14,7 +14,7 @@
 <a href="mailto:firozahmed3052000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-firozahmed3052000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://auth.geeksforgeeks.org/user/firozahmed3052000" target="blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/geeksforgeeks-Firoj%20Ahmed-blue?style=flat-square&logo=geeksforgeeks"></a>
 <a href="https://instagram.com/firojahmed1313" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-firoj_ahmed-tomato?style=flat-square&logo=instagram"></a>
-<a href="https://fb.com/firoj.ahmed.50999405" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/LinkedIn-Firoj%20Ahmed-blue?style=flat-square&logo=facebook"></a>
+<a href="https://fb.com/firoj.ahmed.50999405" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Firoj%20Ahmed-blue?style=flat-square&logo=facebook"></a>
 <a href="https://twitter.com/firojahmed30520" target="blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-firoj_ahmed-tomato?style=flat-square&logo=twitter"></a>
 <a href="https://protfolio-firojahmed1313.vercel.app/" target="blank"><img alt="protfolio" src="https://img.shields.io/badge/Protfolio-firoj_ahmed-blue?style=flat-square&logo=website"></a>
   
@@ -26,8 +26,6 @@
 - 📫 How to reach me **firozahmed3052000@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hyoXPm8M3kcaiiI_yn9W_E1TKuI1M8P3/view](https://drive.google.com/file/d/1hyoXPm8M3kcaiiI_yn9W_E1TKuI1M8P3/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

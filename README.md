@@ -26,7 +26,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/firojahmed1313?tab=repositories](https://github.com/firojahmed1313?tab=repositories)
 
 - 📫 How to reach me **firozahmed3052000@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hyoXPm8M3kcaiiI_yn9W_E1TKuI1M8P3/view](https://drive.google.com/file/d/1hyoXPm8M3kcaiiI_yn9W_E1TKuI1M8P3/view)
+- 📄 Know about my experiences [https://rojfolio-mdfirojahmed.vercel.app/resume](https://rojfolio-mdfirojahmed.vercel.app/resume)
 
 
 <h3 align="left">Languages and Tools:</h3>

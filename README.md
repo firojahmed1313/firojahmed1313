@@ -21,11 +21,14 @@
 <a href="https://rojfolio-mdfirojahmed.vercel.app/" target="blank"><img alt="protfolio" src="https://img.shields.io/badge/Protfolio-firoj_ahmed-blue?style=flat-square&logo=website"></a>
   
 </p>
-- 🌱 I’m currently learning **React-native**
+
+
+- 🌱 I’m currently learning  **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/firojahmed1313?tab=repositories](https://github.com/firojahmed1313?tab=repositories)
 
 - 📫 How to reach me **firozahmed3052000@gmail.com**
+  
 - 📄 Know about my experiences [https://rojfolio-mdfirojahmed.vercel.app/resume](https://rojfolio-mdfirojahmed.vercel.app/resume)
 
 

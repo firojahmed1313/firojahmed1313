@@ -38,7 +38,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,tailwind,redux,python" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,tailwind,redux,python,c#,dotnet,fastapi" />
 
 </p>
 

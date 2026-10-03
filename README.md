@@ -1,14 +1,14 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+MD+Firoj+Ahmed;Full+Stack+Developer;Generative+AI+Engineer;Data+Engineering+Learner;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+MD+Firoj+Ahmed;Full+Stack+Developer;Generative+AI+Engineer;Building+Scalable+Systems" />
 </p>
 
 # 👨‍💻 MD Firoj Ahmed  
 
-### 🚀 Full Stack Developer | 🤖 Gen AI | 📊 Data Engineering  
+### 🚀 Full Stack Developer | 🤖 Gen AI Engineer
 
-> I build **scalable web systems**, **AI-powered applications**, and **data-driven pipelines**.
+> I build **scalable web systems**, **AI-powered applications**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firojahmed1313&label=Profile%20views&color=0e75b6&style=flat" alt="firojahmed1313" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firojahmed1313&theme=dark_dimmed&margin-w=10" alt="firojahmed1313" /></a> </p>
@@ -30,8 +30,8 @@
 
 ## 🧠 About Me
 
-- 🎓 1+ yr exp
-- 💡 Focused on **Full Stack + Generative AI + Data Engineering**  
+- 🎓 2+ yr exp
+- 💡 Focused on **Full Stack + Generative AI **  
 - ⚡ Backend optimization & scalable systems  
 - 🎯 Preparing for **SDE roles**  
 - 🔍 Interested in **System Design + AI Applications**
